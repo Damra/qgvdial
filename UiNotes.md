@@ -1,0 +1,2 @@
+  * A long press on the Close button quits the application. A simple single click will only hide the main window.
+  * Long press on the backspace button on the dialer will clear out the number.
